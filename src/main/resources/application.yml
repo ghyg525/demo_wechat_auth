@@ -4,12 +4,12 @@ server:
 
 ##微信公众号配置
 wechat:  #测试号
-  appid: wxd548dd4ddb3cd5f4
-  secret: 237d176203e71a665d6878410d2bbd51
+  appid: 
+  secret: 
   
 ##相关域名配置
 domain:
-  auth: http://test.com  #授权域名(用于授权回调,需要公众号配置安全域,本工程地址)
+  auth: http://test.com #授权域名(用于授权回调,需要公众号配置安全域,本工程地址)
   callback: http://test.com #回调地址,用于授权成功后将openid传递给业务方
     
     
