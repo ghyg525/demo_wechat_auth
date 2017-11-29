@@ -5,8 +5,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
+import org.yangjie.bean.AuthBean;
 import org.yangjie.dao.AuthDao;
-import org.yangjie.entity.AuthBean;
 import org.yangjie.util.HttpUtil;
 import org.yangjie.util.JsonUtil;
 

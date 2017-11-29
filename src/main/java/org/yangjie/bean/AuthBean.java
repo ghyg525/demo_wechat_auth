@@ -1,4 +1,4 @@
-package org.yangjie.entity;
+package org.yangjie.bean;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
